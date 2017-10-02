@@ -1,0 +1,2 @@
+load("/Users/pengchengliu/Documents/GitHub/DataMiningCup2016_Solution/solutions/var_ranks_2_4.Rda")
+load("/Users/pengchengliu/Documents/GitHub/DataMiningCup2016_Solution/solutions/errors_2_4_xgb.R")
